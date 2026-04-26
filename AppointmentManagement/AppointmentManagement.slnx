@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="../AppointmentManagement.Api/AppointmentManagement.Api.csproj" Id="fdeafd9f-9815-47ad-9972-81930067fb2c" />
-  <Project Path="../AppointmentManagement.Application/AppointmentManagement.Application.csproj" Id="4ee83a83-c0fd-455d-9fdb-bd4ab8907f87" />
-  <Project Path="../AppointmentManagement.Domain/AppointmentManagement.Domain.csproj" Id="2a1fea5f-9327-4f8d-bdae-f4286b6a7469" />
-  <Project Path="../AppointmentManagement.Infrastructure/AppointmentManagement.Infrastructure.csproj" Id="32599054-40c7-441b-b2b1-36af1a5584ec" />
-</Solution>
